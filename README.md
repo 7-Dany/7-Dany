@@ -4,7 +4,7 @@
 
 i'm a mechanical engineer not graduated yet, and a full stack web developer, started coding since 2020
 
-![Snake animation](https://github.com/7-Dany/7-Dany/blob/main/assets/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/7-Dany/7-Dany/output/github-contribution-grid-snake.svg)
 
 - 🔭 I’m currently working on yelp camp project from colt steele instructor [Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
 - 🌱 I’m currently learning [MongoDB](https://www.mongodb.com/)
