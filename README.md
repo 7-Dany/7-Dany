@@ -5,7 +5,7 @@
 i'm a mechanical engineer not graduated yet, and a full stack web developer, started coding since 2020
 
 - 🔭 I’m currently working on yelp camp project from colt steele instructor [Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
-- 🌱 I’m currently learning [MongoDB](https://www.mongodb.com/)
+- 🌱 I’m currently learning [Next.js](https://nextjs.org/)
 - 👯 I’m looking to collaborate on creating full stack apps
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ali-ahmed-036b54216/)
 - 😄 Pronouns: he/his
