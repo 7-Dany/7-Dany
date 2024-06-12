@@ -8,7 +8,6 @@ I'm a mechanical engineer not graduated yet, and a full-stack web developer who 
 - 🌱 I’m currently learning [Next.js](https://nextjs.org/)
 - 👯 I’m looking to collaborate on creating full-stack apps
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ali-ahmed-036b54216/)
-- 😄 Pronouns: he/his
 - ⚡ Fun fact: I love coding 😂
 
 <h3 align="left">Languages and Tools:</h3>
