@@ -2,13 +2,13 @@
 
 ### Thanks for showing my profile
 
-I'm a mechanical engineer not graduated yet, and a full-stack web developer who started coding in 2020
+I'm a mechanical engineer who graduated in 2024 and a full-stack web developer who started coding in 2020.
 
-- 🔭 I’m currently working on a Yelp camp project from Colt Steele instructor [Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
-- 🌱 I’m currently learning [Next.js](https://nextjs.org/)
+- 🔭 I’m currently waiting to be free!
+- 🌱 I’m currently reading books about databases and learning from [CMU](https://youtube.com/playlist?list=PLSE8ODhjZXjYDBpQnSymaectKjxCy6BYq&si=UAxfJe3G_1pQq3ZY)
 - 👯 I’m looking to collaborate on creating full-stack apps
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ali-ahmed-036b54216/)
-- ⚡ Fun fact: I love coding 😂
+- ⚡ Fun fact: Did you know that programmers spend more time Googling errors than actually writing code? If debugging is the process of removing bugs, then programming must be the process of putting them in!
 
 <h3 align="left">Languages and Tools:</h3>
 
